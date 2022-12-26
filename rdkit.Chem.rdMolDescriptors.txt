@@ -1,15 +1,4 @@
 CalcAsphericity
-CalcChi0v
-CalcChi1n
-CalcChi1v
-CalcChi2n
-CalcChi2v
-CalcChi3n
-CalcChi3v
-CalcChi4n
-CalcChi4v
-CalcChiNn
-CalcChiNv
 CalcEccentricity
 CalcExactMolWt
 CalcFractionCSP3
