@@ -1,4 +1,3 @@
-CalcAsphericity
 CalcEccentricity
 CalcExactMolWt
 CalcFractionCSP3
