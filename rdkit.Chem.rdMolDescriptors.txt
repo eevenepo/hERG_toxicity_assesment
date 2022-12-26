@@ -1,5 +1,4 @@
 CalcAsphericity
-CalcChi0n
 CalcChi0v
 CalcChi1n
 CalcChi1v
